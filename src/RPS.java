@@ -6,6 +6,9 @@ import javax.swing.JLabel;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
+/**
+ * UI for the app
+ */
 public class RPS extends JFrame {
     private JPanel panel1; //panel 1 components
     private JLabel winLB;
